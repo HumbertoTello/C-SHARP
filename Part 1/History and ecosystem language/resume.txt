@@ -1,2 +1,15 @@
-Sintaxe
-  Estrita
+Aplicação em C: Programa propriamente dito
+Biblioteca em C: Conversa com o SO
+Contraprodutivo criar aplicações e bibliotecas para várias linguagens e SOs diferentes
+  Desenvolver para a máquina virtual, que pode rodar em um SO
+    Aplicação em MSIL
+    Biblioteca em MSIL
+    As linguagens são compiladas (traduzidas) para a aplicação em MSIL
+
+Nomes do .NET
+  Aplicação .NET 
+  .NET Framework (biblioteca)
+  CLR - Common Language Runtime (máquina virtual)
+
+MSIL - Microsoft Intermediate Language
+  CLR converte MSIL para código de máquina (just in time)
