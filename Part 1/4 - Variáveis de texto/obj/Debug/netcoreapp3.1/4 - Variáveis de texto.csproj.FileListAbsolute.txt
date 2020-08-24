@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\bin\Debug\netcoreapp3.1\4 - Variáveis de texto.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\4 - Variáveis de texto\obj\Debug\netcoreapp3.1\4 - Variáveis de texto.genruntimeconfig.cache
