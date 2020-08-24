@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\bin\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\6 - Controle de fluxo com laços de repetição\obj\Debug\netcoreapp3.1\6 - Controle de fluxo com laços de repetição.genruntimeconfig.cache
