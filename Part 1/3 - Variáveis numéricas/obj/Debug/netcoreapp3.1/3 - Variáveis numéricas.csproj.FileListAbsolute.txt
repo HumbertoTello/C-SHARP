@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\bin\Debug\netcoreapp3.1\3 - Variáveis numéricas.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\3 - Variáveis numéricas\obj\Debug\netcoreapp3.1\3 - Variáveis numéricas.genruntimeconfig.cache
