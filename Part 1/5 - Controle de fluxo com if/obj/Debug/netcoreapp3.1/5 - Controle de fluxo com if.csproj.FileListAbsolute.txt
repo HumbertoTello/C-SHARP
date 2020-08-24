@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\bin\Debug\netcoreapp3.1\5 - Controle de fluxo com if.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 1\5 - Controle de fluxo com if\obj\Debug\netcoreapp3.1\5 - Controle de fluxo com if.genruntimeconfig.cache
