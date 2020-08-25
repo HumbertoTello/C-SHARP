@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\bin\Debug\netcoreapp3.1\2 - Tipos.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\2 - Tipos\obj\Debug\netcoreapp3.1\2 - Tipos.genruntimeconfig.cache
