@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\bin\Debug\netcoreapp3.1\5 - Propriedades.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\5 - Propriedades\obj\Debug\netcoreapp3.1\5 - Propriedades.genruntimeconfig.cache
