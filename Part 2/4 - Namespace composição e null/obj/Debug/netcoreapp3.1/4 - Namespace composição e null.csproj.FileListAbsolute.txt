@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\bin\Debug\netcoreapp3.1\4 - Namespace composição e null.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\4 - Namespace composição e null\obj\Debug\netcoreapp3.1\4 - Namespace composição e null.genruntimeconfig.cache
