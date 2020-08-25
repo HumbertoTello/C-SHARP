@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\bin\Debug\netcoreapp3.1\1 - Nossa primeira classe.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\1 - Nossa primeira classe\obj\Debug\netcoreapp3.1\1 - Nossa primeira classe.genruntimeconfig.cache
