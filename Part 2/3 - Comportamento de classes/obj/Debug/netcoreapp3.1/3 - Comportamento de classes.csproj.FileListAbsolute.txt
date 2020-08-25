@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\bin\Debug\netcoreapp3.1\3 - Comportamento de classes.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\3 - Comportamento de classes\obj\Debug\netcoreapp3.1\3 - Comportamento de classes.genruntimeconfig.cache
