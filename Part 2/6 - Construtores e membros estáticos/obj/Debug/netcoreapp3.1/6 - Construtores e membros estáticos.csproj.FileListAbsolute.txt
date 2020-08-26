@@ -1,0 +1,13 @@
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.exe
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.deps.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.runtimeconfig.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.runtimeconfig.dev.json
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\bin\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.csprojAssemblyReference.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.AssemblyInfoInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.AssemblyInfo.cs
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.csproj.CoreCompileInputs.cache
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.dll
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.pdb
+C:\Users\guenz\Desktop\C#\C-SHARP\Part 2\6 - Construtores e membros estáticos\obj\Debug\netcoreapp3.1\6 - Construtores e membros estáticos.genruntimeconfig.cache
