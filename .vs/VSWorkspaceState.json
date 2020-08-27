@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Part 4",
+    "\\Part 4\\ByteBank"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Part 4\\ByteBank\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
